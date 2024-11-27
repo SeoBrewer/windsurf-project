@@ -1,0 +1,13 @@
+# These owners will be the default owners for everything in the repo.
+* @org-owner
+
+# Owners for specific directories or file types
+/docs/ @documentation-team
+/src/ @dev-team
+*.py @python-maintainer
+*.js @javascript-maintainer
+*.md @documentation-team
+
+# More specific ownership can be defined here
+# For example:
+# /path/to/specific/directory/ @specific-team-or-user
